@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="122px" viewBox="0 0 122 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>food_feature</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="50.8145131" width="74.5279526" height="10.1629026" rx="5.08145131"></rect>
+    </defs>
+    <g id="HomePage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jz_website2" transform="translate(-259.000000, -1696.000000)">
+            <g id="food_feature" transform="translate(260.000000, 1697.000000)">
+                <circle id="Oval-5" stroke="#6739B7" stroke-width="2" fill="#FFFFFF" cx="60" cy="60" r="60"></circle>
+                <g id="orderfoodicon" transform="translate(22.500000, 28.664384)">
+                    <g id="orderfood" transform="translate(0.000000, 0.288719)">
+                        <path d="M6.82152382,51.6614217 C7.70041453,35.6108294 20.9939002,22.8665309 37.2639763,22.8665309 C53.5340524,22.8665309 66.8275381,35.6108294 67.7064288,51.6614217 L6.82152382,51.6614217 Z" id="Combined-Shape" stroke="#448993" fill="#60BECD"></path>
+                        <g id="Rectangle-8">
+                            <use fill="#A3DBE3" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#448993" stroke-width="1" x="0.5" y="51.3145131" width="73.5279526" height="9.16290263" rx="4.58145131"></rect>
+                        </g>
+                        <circle id="Oval-8" stroke="#448993" fill="#56B5B2" cx="37.2639763" cy="16.938171" r="5.08145131"></circle>
+                        <circle id="Oval-8" fill-opacity="0.799999952" fill="#FFFFFF" cx="35.5701592" cy="15.2443539" r="1.6938171"></circle>
+                        <path d="M9.97838338,0.912527884 C13.0888877,4.19086294 13.5206095,7.45476451 11.2735487,10.7042326 C9.02648792,13.9537007 9.35673752,17.4650675 12.2642975,21.2383331" id="Path-11" stroke="#448993" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M18.4474689,0.912527884 C21.5579732,4.19086294 21.989695,7.45476451 19.7426342,10.7042326 C17.4955734,13.9537007 17.825823,17.4650675 20.7333831,21.2383331" id="Path-11" stroke="#448993" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M52.9677942,0.912527884 C56.0782985,4.19086294 56.5100203,7.45476451 54.2629595,10.7042326 C52.0158987,13.9537007 52.3461483,17.4650675 55.2537083,21.2383331" id="Path-11" stroke="#448993" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M61.4368797,0.912527884 C64.547384,4.19086294 64.9791058,7.45476451 62.732045,10.7042326 C60.4849842,13.9537007 60.8152338,17.4650675 63.7227938,21.2383331" id="Path-11" stroke="#448993" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M16.4953197,41.8732883 C18.2927057,36.0323591 22.3060432,32.0204601 28.535332,29.8375911" id="Path-13" stroke="#FFFFFF" opacity="0.799999952" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="122px" viewBox="0 0 122 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>visitor_invite_feature</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="6.17468056" y="9.45945946" width="52.972973" height="39.7297297"></rect>
+    </defs>
+    <g id="HomePage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jz_website2" transform="translate(-1059.000000, -976.000000)">
+            <g id="visitor_invite_feature" transform="translate(1060.000000, 977.000000)">
+                <circle id="Oval-5" stroke="#6739B7" stroke-width="2" fill="#FFFFFF" cx="60" cy="60" r="60"></circle>
+                <g id="invitevisitoricon" transform="translate(26.944444, 25.000000)">
+                    <g id="invitevisitor" transform="translate(0.972222, 0.000000)">
+                        <path d="M28.4716481,2.74592145 C28.3185246,2.74592145 19.282346,11.2329223 1.36311238,28.206924 L1.36311238,68.9326761 L63.9592217,68.9326761 L63.9592217,28.427498 L36.3451361,2.74592145 C33.8891567,0.92212162 31.2646607,0.92212162 28.4716481,2.74592145 Z" id="Path-3" stroke="#7D605A" fill="#D15E50" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <g id="Rectangle-7">
+                            <use fill="#EAB9AE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#7D605A" stroke-width="1" x="6.67468056" y="9.95945946" width="51.972973" height="38.7297297"></rect>
+                        </g>
+                        <rect id="Rectangle" fill="#7D605A" x="14.3618794" y="18.8895873" width="36.5985753" height="1.6978517" rx="0.848925849"></rect>
+                        <rect id="Rectangle" fill="#7D605A" x="14.3618794" y="28.3343809" width="36.5985753" height="1.6978517" rx="0.848925849"></rect>
+                        <path d="M24.8534505,46.4341513 C24.700327,46.4341513 16.8702143,40.3584089 1.36311238,28.206924 L1.36311238,68.9326761 L63.9592217,68.9326761 L63.9592217,28.427498 L39.8320662,46.1952304 C34.7147241,41.4683213 29.7218522,41.5479616 24.8534505,46.4341513 Z" id="Path-3" stroke="#7D605A" fill="#E37B6D" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M1.76134992,68.6376407 L25.3158776,46.1009767 C30.2273133,41.6036409 35.0032527,41.6036409 39.6436957,46.1009767 C39.7234596,46.1009767 47.8930058,53.6131981 64.1523342,68.6376407" id="Path-4" stroke="#7D605A"></path>
+                        <circle id="Oval-18" fill="#FFFFFF" opacity="0.8" cx="32.0833333" cy="5.71369281" r="1.94444444"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

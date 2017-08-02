@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="122px" viewBox="0 0 122 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>expense_claim_feature</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.66364266,0 L46.1186288,0 L46.1186288,0 C46.6709136,-1.01453063e-16 47.1186288,0.44771525 47.1186288,1 L47.1186288,62.38241 L1.66364266,62.38241 L1.66364266,62.38241 C1.11135791,62.38241 0.663642659,61.9346947 0.663642659,61.38241 L0.663642659,1 L0.663642659,1 C0.663642659,0.44771525 1.11135791,1.01453063e-16 1.66364266,0 Z" id="path-1"></path>
+        <path d="M1.66364266,0 L46.1186288,0 L46.1186288,-2.22044605e-16 C46.6709136,-3.23497668e-16 47.1186288,0.44771525 47.1186288,1 L47.1186288,51.9373998 L36.8932959,62.38241 L1.66364266,62.38241 L1.66364266,62.38241 C1.11135791,62.38241 0.663642659,61.9346947 0.663642659,61.38241 L0.663642659,1 L0.663642659,1 C0.663642659,0.44771525 1.11135791,1.01453063e-16 1.66364266,0 Z" id="path-2"></path>
+    </defs>
+    <g id="HomePage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jz_website2" transform="translate(-659.000000, -1336.000000)">
+            <g id="expense_claim_feature" transform="translate(660.000000, 1337.000000)">
+                <circle id="Oval-5" stroke="#6739B7" stroke-width="2" fill="#FFFFFF" cx="60" cy="60" r="60"></circle>
+                <g id="reportsicon" transform="translate(31.416667, 25.000000)">
+                    <g id="reports" transform="translate(0.598684, 0.331439)">
+                        <g id="Group-24" transform="translate(7.102770, 0.000000)">
+                            <g id="Rectangle-10">
+                                <use fill="#9686D1" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <path stroke="#6A5E94" stroke-width="1" d="M46.6186288,61.88241 L46.6186288,1 C46.6186288,0.723857625 46.3947712,0.5 46.1186288,0.5 L1.66364266,0.5 C1.38750028,0.5 1.16364266,0.723857625 1.16364266,1 L1.16364266,61.38241 C1.16364266,61.6585523 1.38750028,61.88241 1.66364266,61.88241 L46.6186288,61.88241 Z"></path>
+                            </g>
+                            <path d="M7.49736842,15.7301247 L36.6976454,15.7301247" id="Line-2" stroke="#55469B" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M7.49736842,25.0211219 L36.6976454,25.0211219" id="Line-2" stroke="#55469B" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M7.49736842,34.3121191 L36.6976454,34.3121191" id="Line-2" stroke="#55469B" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M7.49736842,43.6031163 L36.6976454,43.6031163" id="Line-2" stroke="#55469B" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                        <g id="Group-24" transform="translate(0.000000, 5.775485)">
+                            <g id="Rectangle-10">
+                                <use fill="#BAAAF4" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <path stroke="#6A5E94" stroke-width="1" d="M36.6830696,61.88241 L46.6186288,51.7333989 L46.6186288,1 C46.6186288,0.723857625 46.3947712,0.5 46.1186288,0.5 L1.66364266,0.5 C1.38750028,0.5 1.16364266,0.723857625 1.16364266,1 L1.16364266,61.38241 C1.16364266,61.6585523 1.38750028,61.88241 1.66364266,61.88241 L36.6830696,61.88241 Z"></path>
+                            </g>
+                            <polygon id="Path-12" stroke="#7E72A8" fill="#E3DCF8" stroke-linecap="round" stroke-linejoin="round" points="36.3944468 61.4288729 46.1803483 51.4255112 36.3944468 50.960908"></polygon>
+                            <path d="M9.29099723,13.5871422 L38.4912742,13.5871422" id="Line-2" stroke="#6A5E94" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9.29099723,21.9570868 L38.4912742,21.9570868" id="Line-2" stroke="#6A5E94" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9.29099723,30.3270314 L38.4912742,30.3270314" id="Line-2" stroke="#6A5E94" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <circle id="Oval-19" fill="#FFFFFF" opacity="0.799999952" cx="6.68291013" cy="6.08774656" r="1.94444444"></circle>
+                        </g>
+                        <text id="₹" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="22" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="17.8779301" y="55.3074495">₹</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
