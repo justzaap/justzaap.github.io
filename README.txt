@@ -1,13 +1,9 @@
 
 TITLE: 
-Crew - Responsive Free HTML5 template
+JustZaap - Contextual on the go employee services
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DESIGNED & DEVELOPED by JustZaap Pvt Ltd
 
 
 CREDITS:
@@ -45,5 +41,3 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
 
-Styleswitcher for Demo
-https://github.com/camsjams/jquery-style-switcher
