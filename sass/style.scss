@@ -162,6 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 		.navbar-brand {
 			color: $brand-primary!important;
 			padding: 0 !important;
+			//background-image: url("../images/justzaap_logo_white.svg") no-repeat;
 			span{
 				position: relative;
 				top: 33%;
@@ -271,10 +272,15 @@ h1, h2, h3, h4, h5, h6 {
 	.navbar-brand {
 		float: left;
 		display: block;
-		font-size: 30px;
-		font-weight: 700;
-		padding-left: 0;
-		color: $brand-white;
+		width: 186px;
+		height: 55px;
+		transform: scale(0.6);
+		position: relative;
+		top: 7px;
+		background-image: url("../images/justzaap_logo_white.svg");
+		@media screen and (max-width: $screen-sm) {
+			right: 32px;
+		}
 		
 	}
 	&.navbar-fixed-top {
@@ -287,7 +293,8 @@ h1, h2, h3, h4, h5, h6 {
 		margin-top: 0px;
 		top: 0;
 		.navbar-brand {
-			color: $brand-primary;
+			//color: $brand-primary;
+			background-image: url("../images/justzaap_logo_color.svg");
 		}
 		#navbar {
 			li {
@@ -319,10 +326,6 @@ h1, h2, h3, h4, h5, h6 {
 		border: transparent;
 		background: transparent;
 		@include border-radius(0px);
-		
-		// padding-right: 30px;
-		// padding-left: 10px;
-
 		@media screen and (max-width: $screen-sm) {
 			margin-top: 0px;
 			padding-right: 0px;
@@ -1117,7 +1120,7 @@ h1, h2, h3, h4, h5, h6 {
 	border: 2px solid #fff;
 }
 .owl-carousel-fullwidth {
-	
+	background-image: url("../images/jz_banner_bg.svg");
 
 	.item, .fh5co-owl-text-wrap {
 		height: 700px;
