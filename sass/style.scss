@@ -272,7 +272,7 @@ h1, h2, h3, h4, h5, h6 {
 	.navbar-brand {
 		float: left;
 		display: block;
-		width: 186px;
+		width: 192px;
 		height: 55px;
 		transform: scale(0.6);
 		position: relative;
@@ -280,6 +280,7 @@ h1, h2, h3, h4, h5, h6 {
 		background-image: url("../images/justzaap_logo_white.svg");
 		@media screen and (max-width: $screen-sm) {
 			right: 32px;
+			background-image: url("../images/justzaap_logo_color.svg");
 		}
 		
 	}
@@ -388,7 +389,7 @@ h1, h2, h3, h4, h5, h6 {
 	h3 {
 		font-weight: 300;
 		line-height: 1.5;
-		color: #929292;
+		color: #777777;
 		@media screen and (max-width: $screen-sm) {
 			font-size: 18px!important;
 			line-height: 30px;
@@ -861,7 +862,7 @@ h1, h2, h3, h4, h5, h6 {
 		color: $brand-primary;
 	}
 	.position {
-		color: darken($brand-lighter, 15%);
+		color: #777777;
 		position: relative;
     	bottom: 16px;
 		letter-spacing: 2px;
@@ -1314,4 +1315,15 @@ h1, h2, h3, h4, h5, h6 {
 		letter-spacing: 1px;
 	}
 }
+ footer{
+ 	.terms{
+		a{
+			padding-left: 10px;
+			color: #777777 !important;
+		}
+	}
+ }
 
+.privacy{
+	margin-top: 20px;
+}
