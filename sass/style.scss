@@ -279,6 +279,7 @@ h1, h2, h3, h4, h5, h6 {
 		top: 7px;
 		background-image: url("../images/justzaap_logo_white.svg");
 		@media screen and (max-width: $screen-sm) {
+			width: 193px;
 			right: 32px;
 			background-image: url("../images/justzaap_logo_color.svg");
 		}
