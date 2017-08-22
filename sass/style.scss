@@ -280,8 +280,9 @@ h1, h2, h3, h4, h5, h6 {
 		right: 40px;
 		background-image: url("../images/justzaap_logo_white.svg");
 		@media screen and (max-width: $screen-sm) {
+			transform: scale(0.5);
 			width: 192px;
-			right: 32px;
+			right: 31px;
 			background-image: url("../images/justzaap_logo_color.svg");
 		}
 		
@@ -298,6 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 		.navbar-brand {
 			//color: $brand-primary;
 			background-image: url("../images/justzaap_logo_color.svg");
+			transform: scale(0.5);
 		}
 		#navbar {
 			li {
