@@ -530,6 +530,80 @@ h1, h2, h3, h4, h5, h6 {
 	    	}
 	    }
 	}
+    .pricing-pkg{
+        ul{
+            list-style: none;
+            display: inline-block;
+            border: 1px solid #fff;
+		    border-radius: 50px;
+		    padding: 5px;
+        }
+        li{
+            display: inline-block;
+            border-radius: 50px;
+            color: $brand-primary;
+            a{
+            	padding: 10px 38px;
+    			border-radius: 50px;
+    			color: #fff; 
+    			
+            }
+            &.active{
+            	background-color: #fff; 
+            	a{
+            		color: $brand-primary !important;
+            	}
+            }
+            
+        }
+        .panel-body{
+        	padding: 0 !important;
+        	.table-bordered{
+        		border: 1px solid #dedede !important;
+        	}
+        	.table{
+        		background-color: #fff;
+    			border-radius: 8px;
+    			> thead{
+    				background-color: #f5f5f5;
+    			} 
+
+        	}
+        	.table > thead > tr > th{
+        		font-size: 20px;
+			    font-weight: 500;
+			    color: #000;
+        		padding: 15px;
+        		border: 1px solid #ddd !important;
+        		text-align: center;
+        	}
+        	.table > tbody > tr > td{
+        		border: 1px solid #ddd;
+        		&:not(:first-child){
+        			color: #6029b2;
+    				font-size: 26px;
+        		}
+        	}
+        	.table {
+        		tbody{
+        			tr{
+        				.left-aligned-td{
+				        	text-align: left;
+						    margin: 0 auto;
+						    display: inline-block;
+						    border: none !important;
+				        }
+        			}
+        		}
+
+        	}
+        }
+        .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+        	border: none !important;
+        	border-bottom-color: none !important;
+        }
+        
+    }
 	.pricing-plan {
 		margin: 0;
 		padding: 0;
@@ -935,7 +1009,20 @@ h1, h2, h3, h4, h5, h6 {
 		@media screen and (max-width: $screen-sm) {
 			margin-top: 10px;
 		}
-	}	
+	}
+	&.btn-blue {
+		background: $brand-primary;
+		color: $brand-white;
+		padding: 10px 20px !important;
+		&:hover, &:active, &:focus{
+			background: $brand-primary !important;
+    		
+    		color: $brand-white;
+		}
+		@media screen and (max-width: $screen-sm) {
+			margin-top: 10px;
+		}
+	}		
 }
 
 // Social
@@ -1335,3 +1422,6 @@ h1, h2, h3, h4, h5, h6 {
 .privacy{
 	margin-top: 20px;
 }
+
+
+
